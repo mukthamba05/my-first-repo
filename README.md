@@ -26,6 +26,4 @@ This repository marks the beginning of my GitHub journey. It is created to learn
 - ✅ README added
 - 🚀 Continuously learning and improving
 
----
-
 **"Every expert was once a beginner. This repository is where my GitHub journey begins."** 🌱
